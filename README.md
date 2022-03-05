@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - 🦄 I'm Kamil @s-vsp
+- 🦘 I'm interested in: Artificial Intelligence, Computer Vision, GPU-computing
 - 🦜 I'm working on: Transformers models, Meta-learning models
-- 🦚 I'm learning: Azure, MLOps
+- 🦚 I'm learning: CUDA, MLOps
