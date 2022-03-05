@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🦄 I'm Kamil @s-vsp
+- 🦜 I'm working on: Transformers models, Meta-learning models
+- 🦚 I'm learning: Azure, MLOps
